@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.6.5",
+    "bitcoinjs-lib": "^5.2.0"
+  }
+}
